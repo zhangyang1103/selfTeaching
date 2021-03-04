@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T14:08:27.333Z" agent="5.0 (Windows)" etag="zhPOKeBMU9Qqt6f5aAFa" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-04T14:21:09.995Z" agent="5.0 (Windows)" etag="0vAIhjSUYuroByUgfkfS" version="14.4.3" type="github">
   <diagram id="_KgP9zd1s0jClfJV7wFN" name="Page-1">
-    <mxGraphModel dx="868" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1736" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,13 +141,13 @@
         <mxCell id="ANpANSX_q5uw8GC-pnkn-124" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ANpANSX_q5uw8GC-pnkn-100">
           <mxGeometry y="120" width="360" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ANpANSX_q5uw8GC-pnkn-125" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="ANpANSX_q5uw8GC-pnkn-124">
+        <mxCell id="ANpANSX_q5uw8GC-pnkn-125" value="四类" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="ANpANSX_q5uw8GC-pnkn-124">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ANpANSX_q5uw8GC-pnkn-126" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ANpANSX_q5uw8GC-pnkn-124">
+        <mxCell id="ANpANSX_q5uw8GC-pnkn-126" value="设计使用年限100年" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ANpANSX_q5uw8GC-pnkn-124">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ANpANSX_q5uw8GC-pnkn-127" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ANpANSX_q5uw8GC-pnkn-124">
+        <mxCell id="ANpANSX_q5uw8GC-pnkn-127" value="纪念性建筑与特别重要的建筑" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ANpANSX_q5uw8GC-pnkn-124">
           <mxGeometry x="180" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
