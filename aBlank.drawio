@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T13:39:29.191Z" agent="5.0 (Windows)" etag="vFEMJv6Owx0e0yIxKVq-" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-04T13:41:04.659Z" agent="5.0 (Windows)" etag="PSjX-ilUpEOIL6QdiLHB" version="14.4.3" type="github">
   <diagram id="_KgP9zd1s0jClfJV7wFN" name="Page-1">
-    <mxGraphModel dx="1447" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,16 +75,16 @@
         <mxCell id="ANpANSX_q5uw8GC-pnkn-76" value="各类供农业生产的房屋" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ANpANSX_q5uw8GC-pnkn-74">
           <mxGeometry x="60" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ANpANSX_q5uw8GC-pnkn-91" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="ANpANSX_q5uw8GC-pnkn-91" value="结构类型分类" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="320" y="160" width="160" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="ANpANSX_q5uw8GC-pnkn-92" value="Item 1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="ANpANSX_q5uw8GC-pnkn-91">
+        <mxCell id="ANpANSX_q5uw8GC-pnkn-92" value="砌体结构" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="ANpANSX_q5uw8GC-pnkn-91">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ANpANSX_q5uw8GC-pnkn-93" value="Item 2" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="ANpANSX_q5uw8GC-pnkn-91">
+        <mxCell id="ANpANSX_q5uw8GC-pnkn-93" value="框架结构" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="ANpANSX_q5uw8GC-pnkn-91">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ANpANSX_q5uw8GC-pnkn-94" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="ANpANSX_q5uw8GC-pnkn-91">
+        <mxCell id="ANpANSX_q5uw8GC-pnkn-94" value="特种结构" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="ANpANSX_q5uw8GC-pnkn-91">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
